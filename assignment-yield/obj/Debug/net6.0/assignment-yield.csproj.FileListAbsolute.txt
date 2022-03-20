@@ -1,0 +1,15 @@
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\bin\Debug\net6.0\assignment-yield.exe
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\bin\Debug\net6.0\assignment-yield.deps.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\bin\Debug\net6.0\assignment-yield.runtimeconfig.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\bin\Debug\net6.0\assignment-yield.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\bin\Debug\net6.0\ref\assignment-yield.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\bin\Debug\net6.0\assignment-yield.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.csproj.AssemblyReference.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.AssemblyInfoInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.AssemblyInfo.cs
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.csproj.CoreCompileInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\ref\assignment-yield.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\Collection Assignments\assignment-yield\assignment-yield\obj\Debug\net6.0\assignment-yield.genruntimeconfig.cache
